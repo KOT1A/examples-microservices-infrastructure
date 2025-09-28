@@ -1,0 +1,2 @@
+# examples-microservices-infrastructure
+Пример микросервисной инфраструктуры
