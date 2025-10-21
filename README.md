@@ -1,5 +1,6 @@
 # examples-microservices-infrastructure
 Пример микросервисной инфраструктуры
 
-## Запуск инфраструктуры
- - выполняем команду docker-compose up
+<hr>
+
+Для запуска инфраструктуры необходимо выполнить команду docker-compose up
